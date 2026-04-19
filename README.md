@@ -22,9 +22,9 @@ Desenvolver raciocínio lógico e fundamentos da programação, com foco na cons
 
 ## 📁 Estrutura do Repositório
 
--/exercicios -> Listas de exercícios da disciplina
--/exemplos -> Códigos de estudo e testes
--/anotacoes -> Resumos teóricos
+/exercicios -> Listas de exercícios da disciplina  
+/exemplos -> Códigos de estudo e testes  
+/anotacoes -> Resumos teóricos  
 
 ---
 
