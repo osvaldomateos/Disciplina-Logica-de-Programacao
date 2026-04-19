@@ -16,7 +16,7 @@ Desenvolver raciocínio lógico e fundamentos da programação, com foco na cons
 - Estruturas condicionais  
 - Estruturas de repetição  
 - Algoritmos básicos  
-- Introdução à linguagem C++  
+- Introdução à linguagem C
 
 ---
 
