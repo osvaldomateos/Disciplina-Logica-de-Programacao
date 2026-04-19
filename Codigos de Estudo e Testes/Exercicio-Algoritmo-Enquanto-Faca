@@ -1,0 +1,25 @@
+// Escreva um algoritmo em Portugol usando a estrutura enquanto/faça para ler um valor A e um
+// valor N, e imprimir a soma dos N números a partir de A (inclusive). Caso N seja negativo
+// ou zero, deverá ser lido um novo N (apenas N).
+
+Algoritmo "Soma_N_Numeros_a_partir_de_A"
+Var
+A, N : inteiro
+Soma, Contador : inteiro
+Inicio
+Escreval("Digite o valor de A: ")
+Leia(A)
+Escreval("Digite o valor de N (maior que zero): ")
+Leia(N)
+Enquanto (N <= 0) faca
+Escreval("Valor invalido! Digite N maior que zero: ")
+Leia(N)
+FimEnquanto
+Soma <- 0
+Contador <- 0
+Enquanto (Contador < N) faca
+Soma <- Soma + (A + Contador)
+Contador <- Contador + 1
+FimEnquanto
+Escreval("A soma dos ", N, " numeros a partir de ", A, " é ", Soma)
+Fimalgoritmo
